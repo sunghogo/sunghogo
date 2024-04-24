@@ -4,7 +4,7 @@
 
 <br />
 
-> Hi, I am a programmer motivated by graphics processing, software engineering, and computer architecture. As such, many of my hobby projects are designed to limit-test my understanding of these fields in my journey for continous improvement. I then aim to adapt and culminate these into lessons for my students.
+> Hi, I am a programmer motivated by graphics processing, software engineering, and computer architecture. As such, many of my hobby projects are designed to limit-test my understanding of these fields in my journey for continous improvement.
 
 <br />
 
