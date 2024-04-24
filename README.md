@@ -31,7 +31,7 @@ Hi, I am a programmer motivated by graphics processing, software engineering, an
 <img align="left" alt="Docker" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
 
 <!-- Clear Alignemnt -->
-<div style="clear:both"></div><br /><br /><br />
+<div style="clear:both"></div><br /><br /><br /><br /><br />
 
 ## Projects
 
