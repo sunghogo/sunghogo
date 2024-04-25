@@ -19,7 +19,7 @@
   <img align="left" alt="HTML5" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
   <img align="left" alt="CSS3" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
   <img align="left" alt="Javascript" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <div style="clear:both"></div><br /><br /><br />
+  <div style="clear:both"></div><br /><br /><br /><br />
 </details>
 
 <details>
@@ -31,7 +31,7 @@
   <img align="left" alt="Flask" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"/>
   <img align="left" alt="PostgreSQL" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="left" alt="MongoDB" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <div style="clear:both"></div><br /><br /><br />
+  <div style="clear:both"></div><br /><br /><br /><br />
 </details>
 
 <details>
@@ -40,7 +40,7 @@
   <img align="left" alt="Git" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
   <img align="left" alt="Bash" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"/>
   <img align="left" alt="Docker" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
-  <div style="clear:both"></div><br /><br /><br />
+  <div style="clear:both"></div><br /><br /><br /><br />
 </details>
 
 <br />
