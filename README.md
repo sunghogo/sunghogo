@@ -48,26 +48,11 @@
 ## Projects
 
 <details open>
-  <summary> 2024 </summary>
+  <summary> Game Projects </summary>
 
-  | Project         | Links       | Description  | Key Takeaways |
+  | Project         | Links       | Description  | Date          |
   | --------------- | ----------- | ------------ | ------------- |
-  | Rocket Race | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="30" height="30">](https://github.com/sunghogo/Rocket-Race-Unity) [<img src="https://www.svgrepo.com/download/13672/play-button.svg" alt="Play Button" width="30" height="30">](https://sunghogo.github.io/Rocket-Race/) | A 3D game about controlling a rocket to collect stars and avoid crashing into planets. This was created as a proof of concept that simple 2D games can be easily adapted into 3D from the ground up using purely the tools provided in Unity and C#. | Unity API, Unity Particle System, ECS, C# Events for Decoupling |
+  | Rocket Race | [<img src="https://www.svgrepo.com/download/449764/github.svg" alt="GitHub" width="30" height="30">](https://github.com/sunghogo/Rocket-Race-Unity) [<img src="https://www.svgrepo.com/download/501816/play-game.svg" alt="Play Button" width="30" height="30">](https://sunghogo.github.io/Rocket-Race/) | A 3D game about controlling a rocket to collect stars and avoid crashing into planets. This was created as a proof of concept that simple 2D web games could be easily adapted into 3D. | 04/2024 |
+  | Project Boost | [<img src="https://www.svgrepo.com/download/449764/github.svg" alt="GitHub" width="30" height="30">](http://github.com/sunghogo/GameDevTV-Unity/tree/3457b63b1ecf99c9a98b441afb9988ac35ea8ff9/Project%20Boost) [<img src="https://www.svgrepo.com/download/501816/play-game.svg" alt="Play Button" width="30" height="30">](https://sunghogo.github.io/Project-Boost/) | A 3D game about controlling a rocket and maneuvering it to the landing pad on the other side. This was created as a way to familiarize myself with 3D game development in Unity. | 04/2024 |
   
-</details>
-
-<details>
-  <summary> 2023 </summary>
-  
-  | Project         | Links       | Description  |
-  | --------------- | ----------- | ------------ |
-  | Example Project |             |              |
-</details>
-
-<details>
-  <summary> 2022 </summary>
-  
-  | Project         | Links       | Description  |
-  | --------------- | ----------- | ------------ |
-  | Example Project |             |              |
 </details>
