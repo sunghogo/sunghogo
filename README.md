@@ -22,7 +22,7 @@
   <div style="clear:both"></div><br /><br /><br /><br />
 </details>
 
-<details>
+<details open>
   <summary> Frameworks </summary>
   <br />
   <img align="left" alt="Unity" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"/>
@@ -34,7 +34,7 @@
   <div style="clear:both"></div><br /><br /><br /><br />
 </details>
 
-<details>
+<details open>
   <summary> Tools </summary>
   <br />
   <img align="left" alt="Git" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
