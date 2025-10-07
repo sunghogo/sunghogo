@@ -1,4 +1,4 @@
-# ☕ **Daniel G.** 💻
+# **Daniel G** ☕
 
 `Computer Science BS / Computer Engineering MS`
 
