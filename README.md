@@ -45,8 +45,7 @@
 
 <br />
 
-## Projects
-
+## *Projects*
 <details open>
   <summary> Game Projects </summary>
 
@@ -54,5 +53,6 @@
   | --------------- | ----------- | ------------ | ------------ | ------------- |
   | Rocket Race | [<img src="https://www.svgrepo.com/download/449764/github.svg" alt="GitHub" width="30" height="30">](https://github.com/sunghogo/Rocket-Race-Unity) [<img src="https://www.svgrepo.com/download/501816/play-game.svg" alt="Play Button" width="30" height="30">](https://sunghogo.github.io/Rocket-Race/) | <img src="https://github.com/sunghogo/Rocket-Race-Unity/blob/main/DemoReels/Demo.gif?raw=true" alt="Demo gif" width="300"/> | A 3D Unity game about controlling a rocket to collect stars and avoid crashing into planets. This was created as a proof of concept that simple 2D web games could be easily adapted into 3D. | 04/2024 |
   | Project Boost | [<img src="https://www.svgrepo.com/download/449764/github.svg" alt="GitHub" width="30" height="30">](https://github.com/sunghogo/Project-Boost/tree/main) [<img src="https://www.svgrepo.com/download/501816/play-game.svg" alt="Play Button" width="30" height="30">](https://sunghogo.github.io/Project-Boost/) | <img src="https://github.com/sunghogo/GameDevTV-Unity/blob/main/Project%20Boost/DemoReels/Demo.gif?raw=true" alt="Demo gif" width="300"/> | A 3D Unity game about controlling a rocket and maneuvering it to the landing pad on the other side. This was created as a way to familiarize myself with 3D game development in Unity. | 04/2024 |
+  | Island Survival | N/A | <img src="https://github.com/sunghogo/public/blob/main/DemoReels/IslandSurvival.gif?raw=true" alt="Demo gif" width="300"/> | A 3D Unreal game about washing up on an island and fighting hordes of monsters until you collect enough spirit power ups. This was a collaborative group project that I led as the project manager, ultimately turning around a failing project into a class success. I handled overall design, QA testing, as well as gameplay programming for UI/UX, NPC AI, Power Ups, Dialogue system, and other extraneous features. | 12/2022 |
   
 </details>
